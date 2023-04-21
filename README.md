@@ -12,6 +12,7 @@ Below ar the creteria for the frist implementation:
  - Binary-Cross-Entropy for loss calculation
 <br>
 Below are the results in the form of generated output mask and loss-accuracy plot for training.
+![alt-text-1](Part1-Unet-implementation/util/out1.png "output1") ![alt-text-2](Part1-Unet-implementation/util/graph1.png "graph1")
 
 
 ### Implementation-2: 
