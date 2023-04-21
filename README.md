@@ -27,6 +27,8 @@ Below ar the creteria for the second implementation:
 <br>
 Below are the results in the form of generated output mask and loss-accuracy plot for training.
 
+![alt-text-1](Part1-Unet-implementation/util/out2.png "output1") ![alt-text-2](Part1-Unet-implementation/util/graph2.png "graph1")
+
 ### Implementation-3: 
 Notebook `EVA-8_Phase-1_Assignment-13\Part1-Unet-implementation\StrideConv_TransConv_Criterion.ipynb` contains the third implementation of UNET.
 <br> 
@@ -37,6 +39,8 @@ Below ar the creteria for the third implementation:
 
 <br>
 Below are the results in the form of generated output mask and loss-accuracy plot for training.
+
+![alt-text-1](Part1-Unet-implementation/util/out3.png "output1") ![alt-text-2](Part1-Unet-implementation/util/graph3.png "graph1")
 
 ### Implementation-4: 
 Notebook `EVA-8_Phase-1_Assignment-13\Part1-Unet-implementation\StrideConv_TransConv_Dice.ipynb` contains the fourth implementation of UNET.
@@ -49,6 +53,8 @@ Below ar the creteria for the fourth implementation:
 <br>
 Below are the results in the form of generated output mask and loss-accuracy plot for training.
 
+![alt-text-1](Part1-Unet-implementation/util/out4.png "output1") ![alt-text-2](Part1-Unet-implementation/util/graph4.png "graph1")
+
 ### Implementation-5: 
 Notebook `EVA-8_Phase-1_Assignment-13\Part1-Unet-implementation\StrideConv_Upsample_Dice.ipynb` contains the fifth implementation of UNET.
 <br> 
@@ -60,6 +66,8 @@ Below ar the creteria for the fifth implementation:
 <br>
 Below are the results in the form of generated output mask and loss-accuracy plot for training.
 
+![alt-text-1](Part1-Unet-implementation/util/out5.png "output1") ![alt-text-2](Part1-Unet-implementation/util/graph5.png "graph1")
+
 ### Implementation-6:
 Notebook `EVA-8_Phase-1_Assignment-13\Part1-Unet-implementation\StrideConv_Upsample_Criterion-Dice.ipynb` contains the sixth implementation of UNET.
 <br> 
@@ -70,3 +78,5 @@ Below ar the creteria for the sixth implementation:
 
 <br>
 Below are the results in the form of generated output mask and loss-accuracy plot for training.
+
+![alt-text-1](Part1-Unet-implementation/util/out6.png "output1") ![alt-text-2](Part1-Unet-implementation/util/graph6.png "graph1")
