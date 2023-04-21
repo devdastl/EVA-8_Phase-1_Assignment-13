@@ -80,3 +80,16 @@ Below ar the creteria for the sixth implementation:
 Below are the results in the form of generated output mask and loss-accuracy plot for training.
 
 ![alt-text-1](Part1-Unet-implementation/util/out6.png "output1") ![alt-text-2](Part1-Unet-implementation/util/graph6.png "graph1")
+
+## Part-2 : VAE implementation with MNIST and CIFAR
+### Mnist implementation
+##### images with correct labels
+![alt-text-1](Part2-VAE-implementation/util/mnist_org.png "output1") 
+##### images with random labels
+![alt-text-2](Part2-VAE-implementation/util/mnist_rand.png "graph1")
+
+### CIFAR implementation
+##### images with correct labels
+![alt-text-1](Part2-VAE-implementation/util/cifar_org.png "output1") 
+##### images with random labels
+![alt-text-2](Part2-VAE-implementation/util/cifar_rand.png "graph1")
