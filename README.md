@@ -83,13 +83,13 @@ Below are the results in the form of generated output mask and loss-accuracy plo
 
 ## Part-2 : VAE implementation with MNIST and CIFAR
 ### Mnist implementation
-##### images with correct labels
+##### images with labels into the pipeline
 ![alt-text-1](Part2-VAE-implementation/util/mnist_org.png "output1") 
-##### images with random labels
+##### images without labels
 ![alt-text-2](Part2-VAE-implementation/util/mnist_rand.png "graph1")
 
 ### CIFAR implementation
-##### images with correct labels
+##### images with labels into the pipeline
 ![alt-text-1](Part2-VAE-implementation/util/cifar_org.png "output1") 
-##### images with random labels
+##### images without labels in the inferencing pipeline
 ![alt-text-2](Part2-VAE-implementation/util/cifar_rand.png "graph1")
