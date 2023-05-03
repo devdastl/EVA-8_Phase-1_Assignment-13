@@ -104,7 +104,7 @@ Here one image has no labels passed and with other image, we have passed some ra
 The Variational Autoencoder (VAE) is a type of generative neural network that learns a compressed representation of input data, such as images or text. Unlike traditional autoencoders, VAEs are designed to generate new data samples by sampling from a learned distribution. This is achieved through the use of a probabilistic encoder and decoder, which allows the network to capture the underlying statistical structure of the input data. VAEs have been used for a variety of tasks, such as image synthesis, data compression, and anomaly detection.
 
 ### Custom architecture to include labels
-
+![alt-text-1](Part2-VAE-implementation/util/arch.PNG "output1") 
 
 ### Mnist implementation
 ##### images with labels into the pipeline
